@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/new/ico">
+        <file>image/20091201_0c5e3cb96bf053f6f8f43xlWxvBTLEnr.png</file>
+        <file>image/20091201_2a0f6976569659175fd3PEFlPFnrDS1R.png</file>
+        <file>image/20091201_b321df1d9e60373380a0IQzepnVIU3HS.png</file>
+        <file>image/20091201_e59eb6d747cef0b2bc89nKJwRb2QIxXh.png</file>
+        <file>image/Bin (empty).png</file>
+        <file>image/chatHis.png</file>
+        <file>image/E-Mail.png</file>
+        <file>image/fileopen.png</file>
+        <file>image/Files.png</file>
+        <file>image/Floppy.png</file>
+        <file>image/MSN-Messenger.png</file>
+        <file>image/textbold.png</file>
+        <file>image/textcolor.png</file>
+        <file>image/textitalic.png</file>
+        <file>image/textunder.png</file>
+        <file>image/User.png</file>
+        <file>ico/myicon.ico</file>
+    </qresource>
+</RCC>
